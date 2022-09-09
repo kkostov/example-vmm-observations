@@ -1,0 +1,180 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "observedAt": {
+          "value": "2022-09-09T07:31:11.0002",
+          "oslo": "https://"
+        },
+        "refDevices": {
+          "value": "urn:ngsi-v2:cot-imec-be:Device:vito-iow-kMebYvoByxCDPSPWxRznMU",
+          "oslo": "https://"
+        },
+        "temperature": {
+          "value": 22.5,
+          "oslo": "https://"
+        },
+        "conductivity": {
+          "value": 14858,
+          "oslo": "https://"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.961182162, 51.22395331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "observedAt": {
+          "value": "2022-09-09T07:31:11.0002",
+          "oslo": "https://"
+        },
+        "refDevices": {
+          "value": "urn:ngsi-v2:cot-imec-be:Device:vito-iow-kMebYvoByxCDPSPWxRznMU",
+          "oslo": "https://"
+        },
+        "temperature": {
+          "value": 22.5,
+          "oslo": "https://"
+        },
+        "conductivity": {
+          "value": 14858,
+          "oslo": "https://"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.780061285, 51.088001371]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "observedAt": {
+          "value": "2022-09-09T07:31:11.0002",
+          "oslo": "https://"
+        },
+        "refDevices": {
+          "value": "urn:ngsi-v2:cot-imec-be:Device:vito-iow-kMebYvoByxCDPSPWxRznMU",
+          "oslo": "https://"
+        },
+        "temperature": {
+          "value": 22.5,
+          "oslo": "https://"
+        },
+        "conductivity": {
+          "value": 14858,
+          "oslo": "https://"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.733675949, 51.088001371]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "observedAt": {
+          "value": "2022-09-09T07:31:11.0002",
+          "oslo": "https://"
+        },
+        "refDevices": {
+          "value": "urn:ngsi-v2:cot-imec-be:Device:vito-iow-kMebYvoByxCDPSPWxRznMU",
+          "oslo": "https://"
+        },
+        "temperature": {
+          "value": 22.5,
+          "oslo": "https://"
+        },
+        "conductivity": {
+          "value": 14858,
+          "oslo": "https://"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.733675949, 51.088001371]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "observedAt": {
+          "value": "2022-09-09T07:31:11.0002",
+          "oslo": "https://"
+        },
+        "refDevices": {
+          "value": "urn:ngsi-v2:cot-imec-be:Device:vito-iow-kMebYvoByxCDPSPWxRznMU",
+          "oslo": "https://"
+        },
+        "temperature": {
+          "value": 22.5,
+          "oslo": "https://"
+        },
+        "conductivity": {
+          "value": 14858,
+          "oslo": "https://"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.733675949, 51.088001371]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "observedAt": {
+          "value": "2022-09-09T07:31:11.0002",
+          "oslo": "https://"
+        },
+        "refDevices": {
+          "value": "urn:ngsi-v2:cot-imec-be:Device:vito-iow-kMebYvoByxCDPSPWxRznMU",
+          "oslo": "https://"
+        },
+        "temperature": {
+          "value": 22.5,
+          "oslo": "https://"
+        },
+        "conductivity": {
+          "value": 14858,
+          "oslo": "https://"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.733675949, 51.088001371]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "observedAt": {
+          "value": "2022-09-09T07:31:11.0002",
+          "oslo": "https://"
+        },
+        "refDevices": {
+          "value": "urn:ngsi-v2:cot-imec-be:Device:vito-iow-kMebYvoByxCDPSPWxRznMU",
+          "oslo": "https://"
+        },
+        "temperature": {
+          "value": 22.5,
+          "oslo": "https://"
+        },
+        "conductivity": {
+          "value": 14858,
+          "oslo": "https://"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.733675949, 51.088001371]
+      }
+    }
+  ]
+}

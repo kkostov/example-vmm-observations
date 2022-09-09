@@ -1,0 +1,353 @@
+[
+  {
+    "type": "Point",
+    "lon": 2.961182162,
+    "lat": 51.22395331,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 400.0
+  },
+  {
+    "type": "Point",
+    "lon": 2.780061285,
+    "lat": 50.95950258,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 20.39488
+  },
+  {
+    "type": "Point",
+    "lon": 3.202975622,
+    "lat": 51.25229142,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 1672
+  },
+  {
+    "type": "Point",
+    "lon": 5.482886568,
+    "lat": 51.01781497,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 1673
+  },
+  {
+    "type": "Point",
+    "lon": 3.118559018,
+    "lat": 51.29230966,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 1674
+  },
+  {
+    "type": "Point",
+    "lon": 2.734291,
+    "lat": 50.956243,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 1305.27232
+  },
+  {
+    "type": "Point",
+    "lon": 3.2134298,
+    "lat": 51.26948242,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 1305.27232
+  },
+  {
+    "type": "Point",
+    "lon": 3.095344062,
+    "lat": 51.20394053,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 1397.04928
+  },
+  {
+    "type": "Point",
+    "lon": 3.21526935,
+    "lat": 51.22314045,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 1387.04928
+  },
+  {
+    "type": "Point",
+    "lon": 3.578654543,
+    "lat": 50.90671866,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 1497.04928
+  },
+  {
+    "type": "Point",
+    "lon": 2.672133672,
+    "lat": 50.94328478,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 876.97984
+  },
+  {
+    "type": "Point",
+    "lon": 5.452988216,
+    "lat": 50.90573635,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 877.97984
+  },
+  {
+    "type": "Point",
+    "lon": 3.796178841,
+    "lat": 51.14587845,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 29480
+  },
+  {
+    "type": "Point",
+    "lon": 2.836987,
+    "lat": 50.987104,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 795.40032
+  },
+  {
+    "type": "Point",
+    "lon": 3.005594486,
+    "lat": 51.20949187,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 795.40032
+  },
+  {
+    "type": "Point",
+    "lon": 2.814788,
+    "lat": 50.96969,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 795.40032
+  },
+  {
+    "type": "Point",
+    "lon": 5.476720441,
+    "lat": 51.01599474,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 4766
+  },
+  {
+    "type": "Point",
+    "lon": 2.817154,
+    "lat": 50.991236,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 4766
+  },
+  {
+    "type": "Point",
+    "lon": 2.861366989,
+    "lat": 50.89630769,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 173.35648
+  },
+  {
+    "type": "Point",
+    "lon": 2.826122,
+    "lat": 50.957429,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 173.35648
+  },
+  {
+    "type": "Point",
+    "lon": 2.623163,
+    "lat": 50.920648,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 4766
+  },
+  {
+    "type": "Point",
+    "lon": 3.653535571,
+    "lat": 50.817235222,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 4766
+  },
+  {
+    "type": "Point",
+    "lon": 2.77229,
+    "lat": 51.137543,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 4766
+  },
+  {
+    "type": "Point",
+    "lon": 2.735633817,
+    "lat": 50.95857869,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 0.1
+  },
+  {
+    "type": "Point",
+    "lon": 5.456083658,
+    "lat": 50.90036421,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 1356.25952
+  },
+  {
+    "type": "Point",
+    "lon": 2.668378,
+    "lat": 51.071259,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 1356.25952
+  },
+  {
+    "type": "Point",
+    "lon": 2.806237114,
+    "lat": 50.98189063,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 1600.99808
+  },
+  {
+    "type": "Point",
+    "lon": 3.838051441,
+    "lat": 51.26434871,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 1600.99808
+  },
+  {
+    "type": "Point",
+    "lon": 3.833226727,
+    "lat": 51.30481605,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 785.20288
+  },
+  {
+    "type": "Point",
+    "lon": 5.458746974,
+    "lat": 50.90157585,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 785.20288
+  },
+  {
+    "type": "Point",
+    "lon": 3.177006504,
+    "lat": 51.21752455,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 795.40032
+  },
+  {
+    "type": "Point",
+    "lon": 3.22100827,
+    "lat": 51.22159735,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 795.40032
+  },
+  {
+    "type": "Point",
+    "lon": 2.71632529,
+    "lat": 50.94701434,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": -3031
+  },
+  {
+    "type": "Point",
+    "lon": 3.142890485,
+    "lat": 51.21156635,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": -3031
+  },
+  {
+    "type": "Point",
+    "lon": 2.822384657,
+    "lat": 51.09877138,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 0.1
+  },
+  {
+    "type": "Point",
+    "lon": 5.455029011,
+    "lat": 51.41266819,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 0.1
+  },
+  {
+    "type": "Point",
+    "lon": 2.849079192,
+    "lat": 50.90943332,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 0.1
+  },
+  {
+    "type": "Point",
+    "lon": 2.801997831,
+    "lat": 51.12717843,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 0.1
+  },
+  {
+    "type": "Point",
+    "lon": 3.733675949,
+    "lat": 51.08800137,
+    "timestamp": "2022-08-31T23:22:07.000Z",
+    "temperature": 21.1,
+    "conductivity": 10081,
+    "depth": 0.1
+  }
+]
