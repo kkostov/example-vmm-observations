@@ -14,15 +14,15 @@
         },
         "temperature": {
           "value": 22.5,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         },
         "conductivity": {
           "value": 14858,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         },
         "depth": {
           "value": 14858,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         }
       },
       "geometry": {
@@ -43,15 +43,15 @@
         },
         "temperature": {
           "value": 22.5,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         },
         "conductivity": {
           "value": 14858,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         },
         "depth": {
           "value": 14858,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         }
       },
       "geometry": {
@@ -72,15 +72,15 @@
         },
         "temperature": {
           "value": 22.5,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         },
         "conductivity": {
           "value": 14858,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         },
         "depth": {
           "value": 14858,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         }
       },
       "geometry": {
@@ -101,15 +101,15 @@
         },
         "temperature": {
           "value": 22.5,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         },
         "conductivity": {
           "value": 14858,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         },
         "depth": {
           "value": 14858,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         }
       },
       "geometry": {
@@ -130,15 +130,15 @@
         },
         "temperature": {
           "value": 22.5,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         },
         "conductivity": {
           "value": 14858,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         },
         "depth": {
           "value": 14858,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         }
       },
       "geometry": {
@@ -159,15 +159,15 @@
         },
         "temperature": {
           "value": 22.5,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         },
         "conductivity": {
           "value": 14858,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         },
         "depth": {
           "value": 14858,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         }
       },
       "geometry": {
@@ -188,15 +188,15 @@
         },
         "temperature": {
           "value": 22.5,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         },
         "conductivity": {
           "value": 14858,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         },
         "depth": {
           "value": 14858,
-          "oslo": "https://"
+          "oslo": "https://purl.eu/doc/applicationprofile/WaterAndWater/Water#QuantitativeValue"
         }
       },
       "geometry": {
